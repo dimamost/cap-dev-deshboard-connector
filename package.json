@@ -1,0 +1,27 @@
+{
+  "name": "cap-dev-deshboard-connector",
+  "version": "1.0.0",
+  "description": "The CAP Developer Dashboard Connector can be used in the UI Plugins to communicate with the Dashboard Backend",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sockjs-client": "^1.6.1",
+    "webstomp-client": "^1.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimamost/cap-dev-deshboard-connector.git"
+  },
+  "keywords": [
+    "cap",
+    "dashboard"
+  ],
+  "author": "Dietrich Mostowoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimamost/cap-dev-deshboard-connector/issues"
+  },
+  "homepage": "https://github.com/dimamost/cap-dev-deshboard-connector#readme"
+}

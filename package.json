@@ -1,6 +1,6 @@
 {
   "name": "cap-dev-deshboard-connector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The CAP Developer Dashboard Connector can be used in the UI Plugins to communicate with the Dashboard Backend",
   "main": "src/index.js",
   "scripts": {
